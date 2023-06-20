@@ -1,0 +1,53 @@
+body
+{
+    background-color: #B4E4FF;
+}
+.chaitu
+{
+    color:black;
+    font-size:170%;
+}
+.chaitu2
+{
+    color:black;
+    font-size:150%;
+}
+
+.chaitu3
+{
+    color:black;
+    font-size: 150%;
+    text-decoration: dashed;
+}
+
+.Deco
+{
+    text-decoration: underline;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 150% ;
+    color:brown;
+}
+.Deco2
+{
+    font-family: 'Nunito', sans-serif;
+    font-size: 120%;
+    text-align: center;
+}
+.Deco3
+{
+    font-family: 'Tilt Prism', cursive;
+    font-size: 290%;
+    color: #4C4B16
+}
+.Deco4
+{
+    font-size: 300%;
+    font-family: 'Fredoka One', cursive;
+    color: #B3005E;
+    text-align: center;
+}
+img
+{
+    padding-left: 80px;
+}
+
